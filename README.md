@@ -5,11 +5,12 @@ In this assignment, you are required to create a web page with the following fun
 
 ## Objectives
 
-> [!IMPORTANT]
-> Required to use the React.js or Next.js frameworks for this project.
-
 - Learn how to manage UI
 - Practice skills in handling asynchronous operations with JavaScript
+
+  
+> [!IMPORTANT]
+> Required to use the React.js or Next.js frameworks for this project.
 
 ## Assignment Description
 
@@ -132,7 +133,7 @@ Please make a todo list that
   {"Authorization": "Bearer {access_token}"}
   ```
 
-- #### User List
+- #### User information
 
   API from <http://iottechgroup.dyndns.biz:18180/api/user/user/>
 
@@ -143,7 +144,7 @@ Please make a todo list that
   {"Authorization": "Bearer {access_token}"}
   ```
 
-- #### User information
+- #### User List
 
   API from <http://iottechgroup.dyndns.biz:18180/api/user/user/:id>
 
