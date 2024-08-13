@@ -1,7 +1,7 @@
 # Assignment
 
 ## Introduction
-In this assignment, you are required to create a web page with the following functionalities
+In this assignment, you are required to create a web or mobile page with the following functionalities
 
 ## Objectives
 
