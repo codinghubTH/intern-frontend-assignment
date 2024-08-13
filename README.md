@@ -10,7 +10,9 @@ In this assignment, you are required to create a web page with the following fun
 
   
 > [!IMPORTANT]
-> Required to use the React.js or Next.js frameworks for this project.
+> Web Required to use the React.js or Next.js frameworks for this project.
+> 
+> Mobile Required to use the React Native or Flutter frameworks for this project.
 
 ## Assignment Description
 
