@@ -148,7 +148,7 @@ Please make a todo list that
 
 - #### User List
 
-  API from <http://iottechgroup.dyndns.biz:18180/api/user/user/:id>
+  API from <http://iottechgroup.dyndns.biz:18180/api/user/user/>
 
   Method : GET
 
